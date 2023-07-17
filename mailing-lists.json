@@ -1,1 +1,18 @@
-[{"name":"staff","members":["talea@techtonica.org","michelle@techtonica.org"]},{"name":"cohort-h1-2020","members":["ali@techtonica.org","humail@techtonica.org","khadar@techtonica.org"]},{"name":"tech-ed","members":["mitch@curriculum.org","sally@curriculum.org","bazmurphy@gmail.com"]}]
+[
+  {
+    "name": "staff",
+    "members": ["talea@techtonica.org", "michelle@techtonica.org"]
+  },
+  {
+    "name": "cohort-h1-2020",
+    "members": [
+      "ali@techtonica.org",
+      "humail@techtonica.org",
+      "khadar@techtonica.org"
+    ]
+  },
+  {
+    "name": "tech-ed",
+    "members": ["mitch@curriculum.org", "sally@curriculum.org"]
+  }
+]
